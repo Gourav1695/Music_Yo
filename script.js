@@ -112,4 +112,3 @@ var cla = {
     ravi:45,
     gourav :99
 }
-var dt="hello yo i am Gourav kumar shaw a software engineer at microsoft"
